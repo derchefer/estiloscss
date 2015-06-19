@@ -1,0 +1,28 @@
+@charset "utf-8";
+body{
+		background-image:url(http://www.4shared.com/download/oIounRVEba/ITM-Mas_angulo.png?lgfp=3000);
+		background-size:288px 144px;
+}
+div{ 
+		margin: 0 auto;		
+		width:920px;
+		height:auto;
+		background-color:#2059B1;
+   }
+
+table{
+		margin:0 auto;
+}
+td{
+		width:920px;
+		height:950px;
+		background-image:url(http://www.4shared.com/download/b48d9t4Qce/Trabajo_foto1.png?lgfp=3000);
+		background-size:100% 100%;
+		position:relative;
+}
+#etiqueta{
+		position:absolute;
+		top:90px;
+		left:30px;
+}
+
